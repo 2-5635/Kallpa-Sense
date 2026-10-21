@@ -1,5 +1,4 @@
-# _KALLPA SENSE_
-**Sistema portátil inteligente para la conservación de hortalizas en la comercialización de alimentos.**
+# _KALLPA SENSE: Sistema portátil inteligente para la conservación de hortalizas en la comercialización de alimentos._
 
 KALLPA SENSE es un proyecto tecnológico que propone una alternativa para reducir el deterioro y las pérdidas de hortalizas durante su transporte, venta y almacenamiento temporal. Está orientado a productos como el tomate, el pimiento y la berenjena, que pueden perder calidad debido a las altas temperaturas, los golpes y las condiciones inadecuadas de conservación.
 
