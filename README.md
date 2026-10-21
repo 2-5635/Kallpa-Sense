@@ -41,8 +41,6 @@ El proyecto se relaciona con los siguientes Objetivos de Desarrollo Sostenible:
 
 **Productos de referencia:** Tomate, pimiento y berenjena.
 
-**Nota:** Las mejoras en la conservación de las hortalizas todavía deben validarse mediante pruebas experimentales con un prototipo físico.
-
 ---
 
 *Proyecto académico orientado al diseño de soluciones tecnológicas para la agricultura resiliente y la reducción de pérdidas de alimentos.*
